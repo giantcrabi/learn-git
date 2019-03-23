@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         text1.text = "haha"
+        text1.inputType = 0
     }
 }
