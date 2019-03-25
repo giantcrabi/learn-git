@@ -16,5 +16,6 @@ class MainActivity : AppCompatActivity() {
         text1.text= "lol"
         text1.text = "hohoho"
         text1.text = "hehehe"
+        text1.text = "huhuhu"
     }
 }
